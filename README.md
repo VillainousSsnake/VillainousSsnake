@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VillainousSsnake
 - 👀 I’m interested in coding, creating video games, and creating mods for video games. I also like playing Minecraft and Zelda: Tears of the Kingdom
-- 🌱 I’m currently learning Switch modding
+- 🌱 I’m currently learning creating an all in one modding app caled 0x1de NX
 - Discord: VillainousSsnake
 
 <!---
